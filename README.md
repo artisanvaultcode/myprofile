@@ -1,3 +1,2 @@
 # myprofile
-
-https://www.credly.com/badges/bdf869e7-1cbf-41e1-9878-9b3fca590e56/public_url
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/3337945f-3a06-4253-a7ea-54516a360d86" />
