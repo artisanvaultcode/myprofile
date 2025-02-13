@@ -4,3 +4,4 @@
 
 <img width="875" alt="image" src="https://github.com/user-attachments/assets/3337945f-3a06-4253-a7ea-54516a360d86" />
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bdf869e7-1cbf-41e1-9878-9b3fca590e56" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
